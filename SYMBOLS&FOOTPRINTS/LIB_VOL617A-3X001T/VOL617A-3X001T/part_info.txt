@@ -1,0 +1,9 @@
+Manufacturer=Vishay
+PartNumber=VOL617A-3X001T
+PartCategory=Phototransistor
+PackageCategory=Small Outline Packages
+PinCount=4
+Version=1.1
+Released=2024-02-27 16:02:13
+Downloaded=2024-07-10 00:53:08
+3D=N

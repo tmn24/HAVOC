@@ -1,0 +1,9 @@
+Manufacturer=STMicroelectronics
+PartNumber=STM32H755IIT6
+PartCategory=Integrated Circuit
+PackageCategory=Quad Flat Packages
+PinCount=176
+Version=1.1
+Released=2019-12-03 11:01:49
+Downloaded=2024-07-08 16:49:17
+3D=Y
