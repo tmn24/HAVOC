@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "VOL617A-3X001T"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2024-02-27-16:02:13)
+    (mountForm default
+        (footprintRef "SOP254P1015X230-4N")
+        (spec "System")
+    )
+)

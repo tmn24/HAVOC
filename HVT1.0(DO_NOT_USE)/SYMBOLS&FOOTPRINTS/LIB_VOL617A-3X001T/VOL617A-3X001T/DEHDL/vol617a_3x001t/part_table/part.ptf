@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'VOL617A_3X001T'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Vishay", "VOL617A-3X001T" (!) = "", "SOP254P1015X230-4N", "Small Outline Packages", "78-VOL617A-3X001T", "https://www.mouser.co.uk/ProductDetail/Vishay-Semiconductors/VOL617A-3X001T?qs=s4XK1XdnRilgLzp851N9tg%3D%3D", "Transistor Output Optocouplers Phototransistor Out CTR 100-200% IF=5M", "https://www.vishay.com/docs/82424/vol617a.pdf", "2.3 mm"
+END_PART
+
+END.
