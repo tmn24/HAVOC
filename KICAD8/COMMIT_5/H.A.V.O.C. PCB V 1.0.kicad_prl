@@ -1,13 +1,12 @@
 {
   "board": {
-    "active_layer": 0,
+    "active_layer": 1,
     "active_layer_preset": "",
     "auto_track_width": true,
     "hidden_netclasses": [],
     "hidden_nets": [
       "VBat-backup",
       "GND",
-      "VBAT_SWITCH",
       "+5V",
       "Net-(C32-Pad1)",
       "VDDA",
@@ -45,9 +44,7 @@
       "/Power/NCV_RESET",
       "/Power/DRV",
       "/Power/BST",
-      "Net-(3v3Reg1-SW)",
       "Net-(5VReg1-BST)",
-      "Net-(5VReg1-SW)",
       "Net-(5VReg1-PGOOD)",
       "Net-(25MHz1-Pad3)"
     ],
