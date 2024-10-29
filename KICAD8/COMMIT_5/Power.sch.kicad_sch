@@ -4828,17 +4828,6 @@
 		)
 		(uuid "464af235-4f0c-4cce-9e40-42376a847f54")
 	)
-	(label "5v_sw"
-		(at 83.82 129.54 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "a0ce68f0-5d01-48bf-9e97-42d30103496d")
-	)
 	(label "BST"
 		(at 93.98 86.36 0)
 		(fields_autoplaced yes)
@@ -6252,7 +6241,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "20924b17-0ea6-4c86-89f4-54ff5905e0fa")
+			(uuid "20924b17-0ea6-4c86-89f4-54ff5905e0fb")
 		)
 		(instances
 			(project ""
@@ -6749,7 +6738,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "20924b17-0ea6-4c86-89f4-54ff5905e0fa")
+			(uuid "20924b17-0ea6-4c86-89f4-54ff5905e0fc")
 		)
 		(instances
 			(project ""
@@ -7402,7 +7391,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "20924b17-0ea6-4c86-89f4-54ff5905e0fa")
+			(uuid "20924b17-0ea6-4c86-89f4-54ff5905e0fd")
 		)
 		(instances
 			(project ""
@@ -8866,7 +8855,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "52279651-10f1-49a0-b4a3-24b7ffe28e55")
+			(uuid "52279651-10f1-49a0-b4a3-24b7ffe28e56")
 		)
 		(instances
 			(project ""
