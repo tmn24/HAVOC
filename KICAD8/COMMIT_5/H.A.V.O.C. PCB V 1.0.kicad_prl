@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 1,
+    "active_layer": 2,
     "active_layer_preset": "",
     "auto_track_width": true,
     "hidden_netclasses": [],
@@ -73,7 +73,6 @@
       "GP_GPIO31",
       "LED2",
       "GP_GPIO18",
-      "UART4_TX",
       "GP_GPIO10",
       "SPI5_CS",
       "GP_GPIO9",
